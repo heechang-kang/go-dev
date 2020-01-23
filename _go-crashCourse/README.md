@@ -3,7 +3,6 @@
 https://www.youtube.com/watch?v=SqrbIlUwR0U&t=132s
 
 project structure
-
 go(workspace)
 -bin
 -src
